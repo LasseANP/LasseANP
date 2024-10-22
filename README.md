@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a mechanical engineering student, currently working with ansys in python using PyMAPDL 😄
+
 <!--
 **LasseANP/LasseANP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
